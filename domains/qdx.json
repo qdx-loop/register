@@ -1,0 +1,13 @@
+{
+  "record": {
+    "NS": [
+      "lara.ns.cloudflare.com",
+      "zahir.ns.cloudflare.com"
+    ]
+  },
+  "owner": {
+    "github": "qdx-loop",
+    "email": "qdx-loop"
+  },
+  "description": "Personal static blog hosted on Cloudflare"
+}
